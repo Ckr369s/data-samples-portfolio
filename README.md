@@ -1,1 +1,2 @@
-# data-samples-portfolio
+“Sample datasets for ETL practice”
+Improve README
